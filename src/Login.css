@@ -1,0 +1,21 @@
+.login{
+    display: grid;
+    place-items: center;
+    margin-top: 200px;
+}
+.login>h2{
+    color: #3e93fd;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+.login>button{
+    border: 3px solid #3e93fd;
+    border-radius: 999px;
+    margin-top: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.login>button:hover{
+    background-color: #3e93fd;
+    color: white;
+}
